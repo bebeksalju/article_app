@@ -13,8 +13,8 @@ API sederhana menggunakan **FastAPI** dan **PostgreSQL** untuk mengelola artikel
 
 ### 1. Clone Repo  
 ```bash
-git clone [https://github.com/username/repo-fastapi-crud.git](https://github.com/bebeksalju/article_app.git)
-cd repo-fastapi-crud
+git clone https://github.com/bebeksalju/article_app.git
+cd article_app
 ```
 ### 2. Buat Virtual Environment
 ```bash
