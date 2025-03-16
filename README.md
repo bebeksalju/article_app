@@ -42,20 +42,6 @@ FastAPI menyediakan dokumentasi otomatis:
 🔹 Swagger UI: http://127.0.0.1:8000/docs  
 🔹 Redoc: http://127.0.0.1:8000/redoc
 
-### 🔧 Struktur Proyek
-```bash
-📂 fastapi-crud
- ┣ 📂 models          # Model database
- ┣ 📂 schemas         # Schema Pydantic
- ┣ 📂 routes          # Routing API
- ┣ 📜 main.py         # Entry point FastAPI
- ┣ 📜 database.py     # Koneksi database
- ┣ 📜 requirements.txt # Dependensi proyek
- ┣ 📜 .env            # Konfigurasi rahasia
- ┣ 📜 .gitignore      # File yang diabaikan git
- ┗ 📜 README.md       # Dokumentasi ini
-```
-
 ### 📌 Endpoint API
 Method	Endpoint:
 ```bash
