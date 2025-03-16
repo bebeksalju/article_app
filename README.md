@@ -38,8 +38,8 @@ uvicorn main:app --reload
 Server akan berjalan di http://127.0.0.1:8000
 
 ### 📖 Dokumentasi API
-FastAPI menyediakan dokumentasi otomatis:
-🔹 Swagger UI: http://127.0.0.1:8000/docs
+FastAPI menyediakan dokumentasi otomatis: `\n`
+🔹 Swagger UI: http://127.0.0.1:8000/docs `\n`
 🔹 Redoc: http://127.0.0.1:8000/redoc
 
 ### 🔧 Struktur Proyek
